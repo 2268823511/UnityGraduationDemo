@@ -1,0 +1,67 @@
+{
+  "MosterDataList": [
+    {
+      "MosterID": 0,
+      "Hp": 25,
+      "Speed": 1.2,
+      "Def": 0,
+      "Atk": 5,
+      "ResourcesName": "Prefabs/Bat",
+      "isBoss": false
+    },
+    {
+      "MosterID": 1,
+      "Hp": 20,
+      "Speed": 1.0 ,
+      "Def": 5,
+      "Atk": 3,
+      "ResourcesName": "Prefabs/Egglet",
+      "isBoss": false
+    },
+    {
+      "MosterID": 2,
+      "Hp": 20,
+      "Speed": 1.5,
+      "Def": 1,
+      "Atk": 4,
+      "ResourcesName": "Prefabs/Spider",
+      "isBoss": false
+    },
+    {
+      "MosterID": 3,
+      "Hp": 40,
+      "Speed": 1.0 ,
+      "Def": 2,
+      "Atk": 7,
+      "ResourcesName": "Prefabs/Phantom",
+      "isBoss": false
+    },
+    {
+      "MosterID": 4,
+      "Hp": 65,
+      "Speed": 1.0 ,
+      "Def": 8,
+      "Atk": 8,
+      "ResourcesName": "Prefabs/BossShadow",
+      "isBoss": true
+    },
+    {
+      "MosterID": 5,
+      "Hp": 55,
+      "Speed": 1.8,
+      "Def": 5,
+      "Atk": 8,
+      "ResourcesName": "Prefabs/BossSpiderKing",
+      "isBoss": true
+    },
+    {
+      "MosterID": 6,
+      "Hp": 22,
+      "Speed": 1.0,
+      "Def": 1,
+      "Atk": 3,
+      "ResourcesName": "Prefabs/Bumble",
+      "isBoss": false
+    }
+  ]
+}

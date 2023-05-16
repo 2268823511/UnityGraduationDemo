@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicSoundData>
+	<MusicSoundDataList>
+		<SoundInfo Index="0" isPlay="1" volume="0.6" ResourcesName="MusicSound/PlayerWound"/>
+		<SoundInfo Index="1" isPlay="1" volume="0.6" ResourcesName="MusicSound/PlayerDie"/>
+		<SoundInfo Index="2" isPlay="1" volume="0.6" ResourcesName="MusicSound/BossShadowDie"/>
+		<SoundInfo Index="3" isPlay="1" volume="0.6" ResourcesName="MusicSound/BossSpiderKingDie"/>
+		<SoundInfo Index="4" isPlay="1" volume="0.6" ResourcesName="MusicSound/VictoryMusicBack1"/>	
+	</MusicSoundDataList>
+</MusicSoundData>

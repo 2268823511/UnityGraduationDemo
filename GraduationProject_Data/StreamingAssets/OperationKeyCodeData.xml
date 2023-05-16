@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OperationKeyCodeData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<KeyCodeList>
+		<KeyCodeData Index="0" KeyFunctionName="向前走" KeyName="W" />
+		<KeyCodeData Index="1" KeyFunctionName="向后走" KeyName="S" />
+		<KeyCodeData Index="2" KeyFunctionName="向左走" KeyName="A" />
+		<KeyCodeData Index="3" KeyFunctionName="向右走" KeyName="D" />
+		<KeyCodeData Index="4" KeyFunctionName="跳跃" KeyName="Space" />
+		<KeyCodeData Index="5" KeyFunctionName="普攻" KeyName="Mouse0" />
+		<KeyCodeData Index="6" KeyFunctionName="跑步" KeyName="LeftShift" />
+		<KeyCodeData Index="7" KeyFunctionName="体力攻击" KeyName="Mouse1" />
+		<KeyCodeData Index="8" KeyFunctionName="翻滚" KeyName="F" />
+		<KeyCodeData Index="9" KeyFunctionName="技能1" KeyName="Q" />
+		<KeyCodeData Index="10" KeyFunctionName="技能2" KeyName="E" />
+		<KeyCodeData Index="11" KeyFunctionName="大招" KeyName="R" />
+		<KeyCodeData Index="12" KeyFunctionName="背包" KeyName="B" />
+		<KeyCodeData Index="13" KeyFunctionName="角色信息" KeyName="C" />
+		<KeyCodeData Index="14" KeyFunctionName="退出" KeyName="P" />
+		<KeyCodeData Index="15" KeyFunctionName="对话按钮" KeyName="G" />
+	</KeyCodeList>
+</OperationKeyCodeData>

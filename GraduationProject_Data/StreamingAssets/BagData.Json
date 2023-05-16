@@ -1,0 +1,10 @@
+{
+   "BagDataList":[{"UID":0,
+			"Sword3_L":"Sword3_L",
+			"Sword3_L_State":true,	
+			"Sword6_L":"Sword6_L",
+                  "Sword6_L_State":false,
+                  "Sword7_L":"Sword3_L",
+			"Sword7_L_State":false
+			}]
+}

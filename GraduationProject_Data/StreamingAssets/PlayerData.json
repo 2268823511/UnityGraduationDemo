@@ -1,0 +1,26 @@
+{
+  "PlayerDataList": [
+    {
+      "UID": 0,
+      "PlayerName": "TestPlayer1",
+      "PlayerHp": 50,
+      "PlayerAtk": 20,
+      "PlayerDef": 1,
+      "PlayerPhy": 100,
+      "CurrentTaskID": 0,
+      "isFinshTask": false,
+      "PlayerResourceName": "Prefabs/Player001"
+    },
+    {
+      "UID": 1,
+      "PlayerName": "TestPlayer2",
+      "PlayerHp": 60,
+      "PlayerAtk": 20,
+      "PlayerDef": 3,
+      "PlayerPhy": 100,
+      "CurrentTaskID": 0,
+      "isFinshTask": false,
+      "PlayerResourceName": "Prefabs/Player001"
+    }
+  ]
+}

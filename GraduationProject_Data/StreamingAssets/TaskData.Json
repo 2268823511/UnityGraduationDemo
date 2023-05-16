@@ -1,0 +1,101 @@
+{
+  "TaskDataList": [
+    {
+      "TaskIndex": 0,
+      "DialogName": "NPC",
+      "DialogInfo": "伟大勇者哦,请帮帮我,这里常年被怪物侵扰,不见天日,请你快帮帮我",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 0,
+      "DialogName": "Player",
+      "DialogInfo": "???,你在说神魔？",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 0,
+      "DialogName": "NPC",
+      "DialogInfo": "山的东边有一只小火魔怪物,他把这里的生命树给烧掉了,导致这里堕入永夜没有太阳",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 0,
+      "DialogName": "Player",
+      "DialogInfo": "(所以说一棵树和阳光到底有什么联系....)",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 0,
+      "DialogName": "NPC",
+      "DialogInfo": "只要东边的怪物被清理完,我就有办法让这里重见天日,你能帮帮我吗？",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 0,
+      "DialogName": "NPC",
+      "DialogInfo": "是否接受任务1:清理东边的怪物",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 1,
+      "DialogName": "NPC",
+      "DialogInfo": "勇者哦,是否准备好出发？",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 1,
+      "DialogName": "NPC",
+      "DialogInfo": "哦,东边的火魔已经被你灭了,我身上有一株生命树苗,你是否愿意帮我去火魔的巢穴把树苗种下",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 1,
+      "DialogName": "Player",
+      "DialogInfo": "所以说这东西为什么在你身上......",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 1,
+      "DialogName": "NPC",
+      "DialogInfo": "可以吗？可以帮帮我吗,秋泥膏!!!!",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 2,
+      "DialogName": "NPC",
+      "DialogInfo": "是否接受任务2:种植生命树",
+      "IsFinish": false
+    },
+    {
+      "TaskIndex": 2,
+      "DialogName": "NPC",
+      "DialogInfo": "现在这里已经重现天日了,谢谢勇者,山后有个小山谷,那里听说有出现别的怪物,你如果愿意的话,就去看看吧,说不定有意外收获呢",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 2,
+      "DialogName": "Player",
+      "DialogInfo": "怎么又是我？",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 2,
+      "DialogName": "NPC",
+      "DialogInfo": "有可能爆装备哦！",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 2,
+      "DialogName": "Player",
+      "DialogInfo": "歪日,我去我去！",
+      "IsFinish": true
+    },
+    {
+      "TaskIndex": 3,
+      "DialogName": "NPC",
+      "DialogInfo": "是否开启副本？",
+      "IsFinish": true
+    }
+  ]
+
+}

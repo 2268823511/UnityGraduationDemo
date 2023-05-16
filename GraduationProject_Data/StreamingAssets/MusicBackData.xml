@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicBackData>
+	<MusicBackDataList>
+		<MusicInfo Index="0" isPlay="1" volume="0.6" ResourcesName="MusicBack/MusicBack1"/>
+		<MusicInfo Index="1" isPlay="1" volume="0.5" ResourcesName="MusicBack/MusicBack2"/>
+		<MusicInfo Index="2" isPlay="1" volume="0.5" ResourcesName="MusicBack/FinishTaskMusicBack"/>
+		<MusicInfo Index="3" isPlay="1" volume="0.5" ResourcesName="MusicBack/EnterTaskMusicBack1"/>
+		<MusicInfo Index="4" isPlay="1" volume="0.5" ResourcesName="MusicBack/EnterTaskMusicBack2"/>
+		<MusicInfo Index="5" isPlay="1" volume="0.5" ResourcesName="MusicBack/BossAndBattleMusicBack1"/>
+		<MusicInfo Index="6" isPlay="1" volume="0.5" ResourcesName="MusicBack/VictoryMusicBack1"/>
+	</MusicBackDataList>
+</MusicBackData>
